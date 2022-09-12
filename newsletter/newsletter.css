@@ -1,0 +1,53 @@
+
+.newsletter-background {
+
+    background-image: url('../../assets/images/kommubackgroundfaq.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    background-position: 0 15%;
+}
+.newsletter-title {
+    font-size: 60px;
+    line-height: 20px;
+    text-align: center;
+    padding-left: 60rem; 
+    color: white;
+}
+
+.newsletter-sub-title {
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    padding-left: 60rem; 
+    color: white;
+}
+
+
+.newsletter-artile-card-img{
+    height:200px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newsletter-cover-button{
+    padding-left: 61rem;
+}
+.newsletter-article-title-space{
+    height: 100px;
+    width: 415px;
+}
+.newsletter-center-class{
+    align-items: auto;
+}
+.newsletter-has-error{
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: red; 
+}
+.select_font{
+    color: black; 
+}
